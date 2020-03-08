@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+
+        <item name="actionOverflowMenuStyle">@style/menu_style</item>
+    </style>
+
+    <style name="menu_style" parent="Widget.AppCompat.PopupMenu.Overflow" >
+        <item name="overlapAnchor">false</item>
+        <item name="android:dropDownVerticalOffset">-4.0dip</item>
+    </style>
+
+</resources>

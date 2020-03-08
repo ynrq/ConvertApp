@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ConvertApp</string>
+    <string name="enter_to_search">..... cm بحث مثل</string>
+    <string name="enter_the_value">ادخل القيمة</string>
+    <string name="decimal">تقريب الاعداد</string>
+    <string name="version">الاصدار</string>
+    <string-array name="spinner_array">
+        <item>m</item>
+        <item>cm</item>
+        <item>mm</item>
+        <item>dm</item>
+        <item>ft</item>
+        <item>inch</item>
+        <item>yd</item>
+        <item>km</item>
+        <item>mile</item>
+        <item>acre</item>
+        <item>ha</item>
+        <item>um</item>
+        <item>NM</item>
+    </string-array>
+
+</resources>
